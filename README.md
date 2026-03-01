@@ -1,4 +1,4 @@
-# Stock Chart Viewer (GitHub Pages)
+# Market Dashboard
 
 Static stock dashboard with daily auto-refresh via GitHub Actions (Yahoo Finance), hosted on GitHub Pages.
 
